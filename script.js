@@ -1,6 +1,7 @@
 // ─────────────────────────────────────
 //  Gerenciador de Estudos — script.js
 //  Desafio Digitec
+//  Isabela Mota
 // ─────────────────────────────────────
 
 var materias   = JSON.parse(localStorage.getItem("materias"))   || [];

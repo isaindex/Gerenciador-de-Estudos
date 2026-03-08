@@ -1,6 +1,6 @@
 # Gerenciador de Estudos — Desafio Digitec
 
->Projeto de Isabela Freitas
+>Projeto de Isabela Mota
 
 Aplicação web para organizar matérias e atividades escolares, desenvolvida com HTML, CSS e JavaScript puro!
 
@@ -62,7 +62,7 @@ Ao adicionar uma matéria, o sistema faz automaticamente uma requisição à **A
 https://pt.wikipedia.org/api/rest_v1/page/summary/{nome_da_materia}
 ```
 
-- Um card azul aparece na página com um resumo do tema da matéria
+- Um card aparece na página com um resumo do tema da matéria
 - O resumo é limitado a 300 caracteres para não poluir a interface
 - Caso a matéria não seja encontrada na Wikipedia, uma mensagem informativa é exibida
 - Caso haja falha de conexão, o card exibe uma mensagem de erro
